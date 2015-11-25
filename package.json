@@ -30,7 +30,7 @@
   "main": "./src/xmpp",
   "engine": "node > 0.6.0 < 0.13.0",
   "dependencies": {
-    "node-xmpp-client": "2.0.2"
+    "node-xmpp-client": "^3.0.0"
   },
   "devDependencies": {
     "coffee-script": "1.1.3",
